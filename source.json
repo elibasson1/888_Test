@@ -1,0 +1,22 @@
+[{
+    "player_id": 123,
+    "country": "US",
+    "bet amount": 10,
+    "currency": "EUR",
+    "exchange_rate": 1.3
+},
+    {
+        "player_id": 124,
+        "country": "US",
+        "bet amount": 100,
+        "currency": "EUR",
+        "exchange_rate": 1.3
+    },
+    {
+        "player_id": 125,
+        "country": "IL",
+        "bet amount": 10000,
+        "currency": "EUR",
+        "exchange_rate": 1.3
+    }
+]
